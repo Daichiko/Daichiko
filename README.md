@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with **Unity**
 
-- 👨‍💻 All of my projects are available at [soon](soon)
+- 👨‍💻 All of my projects are available at soon
 
 - 📫 How to reach me **manu.ale.agui.rivas@gmail.com**
 
-- 📄 Know about my experiences [soon](soon)
+- 📄 Know about my experiences soon
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
