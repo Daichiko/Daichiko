@@ -38,7 +38,6 @@
 <a> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
 <a> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a> <img src="https://seeklogo.com/images/A/acl-services-ltd-logo-DA5C2B2B78-seeklogo.com.png" alt="ACLAnalytics" width="40" height="40"/> </a>
 </p>
 
 
